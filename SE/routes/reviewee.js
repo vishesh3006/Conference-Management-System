@@ -79,8 +79,8 @@ route.post('/submitNewPaper',function(req,res){
             //     rejectUnauthorized: false
             // }
             auth: { 
-               user: 'visheshaggarwal2308@gmail.com',
-               pass: 'vish2308esh'
+               user: '---------',
+               pass: '---------'
             }
         });
         // console.log(req.body);
